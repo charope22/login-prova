@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    box-sizing: border-box;
+  }
+
+body{
+    background-color: #686868;
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+    padding: auto;
+}
+
+main{
+    width: 800px;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+#login{
+    background-color: #F5F5F5;
+    width: 450px;
+    height: 500px;
+    gap: 1rem;
+    font-family: 'IBM Plex Sans', sans-serif;
+    line-height: 55px;
+    padding: ;
+}
+
+#img{
+    width: 509px;
+    height: 625px;
+    align-items: center;
+}
+
+
+button{
+    width: 393px;
+    height: 60px;
+    color: aliceblue;
+    background-color: #c70000;
+    border-radius: 12px;
+    border: 1px solid;
+    margin-top: 30px;
+    margin-left: 21px;
+}
+
+input{
+    width: 398px;
+    height: 49px;
+    border-radius: 12px;
+    border: 1px solid #737373;
+    background: #FFF;
+    font-size: 16px;
+    color: #737373;
+    margin-left: 21px;
+}
+
+h1{
+    font-size: 32px;
+    margin-left: 21px;
+}
+
+h2{
+    font-size: 16px;
+    color: #2B2B2B;
+    margin-left: 21px;
+}
